@@ -1,0 +1,15 @@
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\obj\Debug\netcoreapp2.0\Basket.csprojResolveAssemblyReference.cache
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\obj\Debug\netcoreapp2.0\Basket.csproj.CoreCompileInputs.cache
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\obj\Debug\netcoreapp2.0\Basket.AssemblyInfoInputs.cache
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\obj\Debug\netcoreapp2.0\Basket.AssemblyInfo.cs
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\article-database.json
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Basket.deps.json
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Basket.runtimeconfig.json
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Basket.runtimeconfig.dev.json
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Basket.dll
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\bin\Debug\netcoreapp2.0\Basket.pdb
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\obj\Debug\netcoreapp2.0\Basket.dll
+C:\Users\Benoit\Documents\Cours\Design Pattern\design-pattern-BenoitCavrois-master\src\Basket\Basket\obj\Debug\netcoreapp2.0\Basket.pdb
