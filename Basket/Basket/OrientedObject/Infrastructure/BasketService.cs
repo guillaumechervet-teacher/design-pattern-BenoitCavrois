@@ -4,7 +4,12 @@ using System.Text;
 
 namespace Basket.OrientedObject.Infrastructure
 {
-    class BasketService
+    public class BasketService
     {
+        public Domain.Basket GetBasket(IList<BasketLineArticle>basketLineArticles)
+        {
+            Domain.Basket basket = new Domain.Basket(basketLineArticles);
+            return basket;
+        }
     }
 }
